@@ -10,6 +10,7 @@ Java SE (Java Standard Edition)
 JRE만 설치하면 자바를 컴파일하는 등의 각종 프로그램이 제외된 상태로 설치된다.
 
 ![images2](https://user-images.githubusercontent.com/89081374/210375766-7bd12e64-0b57-42e2-a971-7615f20f1f24.png)
+  
 각각의 블록은 자바에서 제공하는 라이브러리들이다.
 # 자바의 특징
 자바 개발 초기에 정해진 것으로, 약간은 지금과 다른 부분이 있다.  
