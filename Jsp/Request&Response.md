@@ -134,7 +134,7 @@
   - server.xml 파일에서 <Connector>의 userBodyEncodingForURI 속성의 값을 true로 지정
 
 ### 요청 헤더 정보의 처리
-- HTTP 프로토콜은 헿더 정보에 부가적인 정보를 담도록 하고 있음
+- HTTP 프로토콜은 헤더 정보에 부가적인 정보를 담도록 하고 있음
 - request 기본 객체가 제공하는 헤더 관련 메서드
 
 |메서드|리턴 타입|설명|
