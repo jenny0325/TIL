@@ -156,7 +156,7 @@ public class ClientWithProxy {
 }
 ```
 
-<프록시 패턴을 적용한 후 시퀀스 다이어그램>
+<프록시 패턴을 적용한 후 시퀀스 다이어그램>  
 ![img](./img/img24.png)
 
 # 데코레이터 패턴(Decorator Pattern)
